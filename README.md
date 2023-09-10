@@ -12,3 +12,5 @@ This repo includes all my projects while I am learning angular +2.
 MIT
 
 **Free Software, Hell Yeah!**
+
+[AngularJS]: <http://angularjs.org>
