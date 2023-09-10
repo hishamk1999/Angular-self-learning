@@ -10,3 +10,5 @@ This repo includes all my projects while I am learning angular +2.
 ## License
 
 MIT
+
+**Free Software, Hell Yeah!**
